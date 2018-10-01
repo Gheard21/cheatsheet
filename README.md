@@ -2,6 +2,7 @@
 
 HTML
 ---
+Linking CSS sheet to HTML doc - <link rel="stylesheet" type="text/css" href="/path">
 
 JavaScript
 ---
