@@ -10,6 +10,7 @@ JavaScript
 CSS
 ---
 Flexbox & CSS Grid - https://css-tricks.com/
+Resetting default styling - https://meyerweb.com/eric/tools/css/reset/
 
 PHP
 ---
