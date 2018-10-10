@@ -30,3 +30,7 @@ Markdown Cheat Sheet - http://packetlife.net/media/library/16/Markdown.pdf
 Jekyll
 ---
 Deploying Jekyll to gh-pages - https://learn.cloudcannon.com/jekyll-cheat-sheet/
+
+Colours
+---
+Colour finder - https://picular.co/
