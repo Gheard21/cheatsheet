@@ -37,5 +37,8 @@ Colour finder - https://picular.co/
 
 Misc Usefull Tools
 ---
-
 Quick syntax finding for many languages and tooling - https://devdocs.io/
+
+Regex
+---
+Regex cheat sheet - https://gist.github.com/nerdsrescueme/1237767
