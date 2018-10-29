@@ -22,6 +22,7 @@ Terminal
 Git
 ---
 Git Cheat Sheet - https://www.git-tower.com/blog/git-cheat-sheet
+When You've really messed up the repo - http://ohshitgit.com/
 
 Markdown
 ---
