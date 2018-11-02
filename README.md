@@ -35,6 +35,7 @@ Deploying Jekyll to gh-pages - https://learn.cloudcannon.com/jekyll-cheat-sheet/
 Colours
 ---
 Colour finder - https://picular.co/
+Color Scheme picker - https://coolors.co/
 
 Misc Usefull Tools
 ---
