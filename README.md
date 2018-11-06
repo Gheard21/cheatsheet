@@ -47,7 +47,7 @@ Quick syntax finding for many languages and tooling - https://devdocs.io/
 
 Regex
 ---
-Regex cheat sheet - https://gist.github.com/nerdsrescueme/1237767
+Regex cheat sheet - https://gist.github.com/nerdsrescueme/1237767 .   
 Testing and checking Regex - https://regexr.com/
 
 Wireframing
