@@ -16,6 +16,10 @@ PHP
 ---
 Laracasts - https://laracasts.com/
 
+Datbases
+---
+SQL cheat sheet - https://gist.github.com/hofmannsven/9164408
+
 Terminal
 ---
 
