@@ -14,7 +14,7 @@ Resetting default styling - https://meyerweb.com/eric/tools/css/reset/
 
 PHP
 ---
-Laracasts - https://laracasts.com/
+Laracasts - https://laracasts.com/     
 Connecting to a database with PHP - http://php.net/manual/en/book.mysqli.php
 
 Datbases
@@ -49,7 +49,7 @@ Quick syntax finding for many languages and tooling - https://devdocs.io/
 
 Regex
 ---
-Regex cheat sheet - https://gist.github.com/nerdsrescueme/1237767 .   
+Regex cheat sheet - https://gist.github.com/nerdsrescueme/1237767       
 Testing and checking Regex - https://regexr.com/
 
 Wireframing
