@@ -15,10 +15,12 @@ Resetting default styling - https://meyerweb.com/eric/tools/css/reset/
 PHP
 ---
 Laracasts - https://laracasts.com/
+Connecting to a database with PHP - http://php.net/manual/en/book.mysqli.php
 
 Datbases
 ---
 SQL cheat sheet - https://gist.github.com/hofmannsven/9164408
+
 
 Terminal
 ---
