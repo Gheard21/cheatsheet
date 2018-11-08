@@ -15,7 +15,7 @@ Resetting default styling - https://meyerweb.com/eric/tools/css/reset/
 PHP
 ---
 Laracasts - https://laracasts.com/     
-Connecting to a database with PHP - http://php.net/manual/en/book.mysqli.php
+Connecting to a database with PHP - http://php.net/manual/en/book.mysqli.php      
 Basic functions to connect to db - https://gist.github.com/Gheard21/da21b51a361cd38ab962ee227b69f696
 
 Datbases
