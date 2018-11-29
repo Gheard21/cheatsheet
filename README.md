@@ -54,6 +54,9 @@ Regex cheat sheet - https://gist.github.com/nerdsrescueme/1237767
 Testing and checking Regex - https://regexr.com/
 
 Wireframing
----
-
+---    
 Online wireframing tool - https://mockflow.com/app/#Wireframe
+
+Study    
+---    
+Free Programming books - https://ebookfoundation.github.io/free-programming-books/free-programming-books.html
