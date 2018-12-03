@@ -7,6 +7,7 @@ HTML Validation - https://validator.w3.org/
 JavaScript
 ---
 Redux visual guide - https://levelup.gitconnected.com/an-unforgettable-way-to-learn-redux-f36afd38c966    
+React Native Local Dev Environment - https://expo.io/    
 
 CSS
 ---
