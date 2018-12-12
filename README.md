@@ -20,6 +20,10 @@ Laracasts - https://laracasts.com/
 Connecting to a database with PHP - http://php.net/manual/en/book.mysqli.php      
 Basic functions to connect to db - https://gist.github.com/Gheard21/da21b51a361cd38ab962ee227b69f696
 
+HTTP
+---
+Creating new Axios instance with headers - axios.create({baseURL: "", headers:{})
+
 Datbases
 ---
 SQL cheat sheet - https://gist.github.com/hofmannsven/9164408
@@ -62,3 +66,4 @@ Online wireframing tool - https://mockflow.com/app/#Wireframe
 Study    
 ---    
 Free Programming books - https://ebookfoundation.github.io/free-programming-books/free-programming-books.html
+
