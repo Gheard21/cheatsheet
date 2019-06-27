@@ -68,3 +68,6 @@ Study
 ---    
 Free Programming books - https://ebookfoundation.github.io/free-programming-books/free-programming-books.html
 
+Algorithms   
+---
+Dijkstra’s Algorithm (Most Efficent route on graph) - https://medium.com/@adriennetjohnson/a-walkthrough-of-dijkstras-algorithm-in-javascript-e94b74192026
