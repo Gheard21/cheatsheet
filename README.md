@@ -67,6 +67,7 @@ Online wireframing tool - https://mockflow.com/app/#Wireframe
 Study    
 ---    
 Free Programming books - https://ebookfoundation.github.io/free-programming-books/free-programming-books.html
+Little ASP .NET Core book - https://nbarbettini.gitbooks.io/little-asp-net-core-book/content/   
 
 Algorithms   
 ---
