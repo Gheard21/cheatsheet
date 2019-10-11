@@ -72,3 +72,8 @@ Little ASP .NET Core book - https://nbarbettini.gitbooks.io/little-asp-net-core-
 Algorithms   
 ---
 Dijkstra’s Algorithm (Most Efficent route on graph) - https://medium.com/@adriennetjohnson/a-walkthrough-of-dijkstras-algorithm-in-javascript-e94b74192026
+
+NHibernate
+---
+
+Configuring NHibernate with ASP.NET core 2/3 - https://gunnarpeipman.com/aspnet-core-nhibernate/    
