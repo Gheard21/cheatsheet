@@ -4,6 +4,10 @@ HTML
 ---
 HTML Validation - https://validator.w3.org/
 
+ASP.Net
+---
+Implementation of User Login And Authentication - https://docs.microsoft.com/en-us/aspnet/core/security/authorization/secure-data?view=aspnetcore-3.0   
+
 JavaScript
 ---
 Redux visual guide - https://levelup.gitconnected.com/an-unforgettable-way-to-learn-redux-f36afd38c966    
@@ -14,12 +18,6 @@ CSS
 Flexbox & CSS Grid - https://css-tricks.com/       
 Resetting default styling - https://meyerweb.com/eric/tools/css/reset/
 
-PHP
----
-Laracasts - https://laracasts.com/     
-Connecting to a database with PHP - http://php.net/manual/en/book.mysqli.php      
-Basic functions to connect to db - https://gist.github.com/Gheard21/da21b51a361cd38ab962ee227b69f696
-
 HTTP
 ---
 Creating new Axios instance with headers - axios.create({baseURL: "", headers:{})
@@ -27,10 +25,6 @@ Creating new Axios instance with headers - axios.create({baseURL: "", headers:{}
 Datbases
 ---
 SQL cheat sheet - https://gist.github.com/hofmannsven/9164408
-
-
-Terminal
----
 
 Git
 ---
@@ -75,5 +69,4 @@ Dijkstra’s Algorithm (Most Efficent route on graph) - https://medium.com/@adri
 
 NHibernate
 ---
-
 Configuring NHibernate with ASP.NET core 2/3 - https://gunnarpeipman.com/aspnet-core-nhibernate/    
