@@ -7,7 +7,7 @@ HTML Validation - https://validator.w3.org/
 ASP.Net CORE
 ---
 Implementation of User Login And Authentication - https://docs.microsoft.com/en-us/aspnet/core/security/authorization/secure-data?view=aspnetcore-3.0   
-Configure SQLite - https://docs.microsoft.com/en-us/ef/core/get-started/?tabs=netcore-cli
+Configure SQLite - https://docs.microsoft.com/en-us/ef/core/get-started/?tabs=netcore-cli    
 Get User when using .net core Identity 3 - https://www.koskila.net/how-to-get-current-user-in-asp-net-core/    
 
 JavaScript
