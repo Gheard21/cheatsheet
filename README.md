@@ -13,8 +13,8 @@ Get User when using .net core Identity 3:
 var id = User.FindFirst(ClaimTypes.NameIdentifier).Value;
 
 var user = await _userManager.FindByIdAsync(id);
-```
-
+```    
+Implementing Blazor in a ASP.NET Core MVC application - https://chrissainty.com/using-blazor-components-in-an-existing-mvc-application/
 JavaScript
 ---
 Redux visual guide - https://levelup.gitconnected.com/an-unforgettable-way-to-learn-redux-f36afd38c966    
