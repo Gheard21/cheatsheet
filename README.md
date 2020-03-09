@@ -14,7 +14,33 @@ var id = User.FindFirst(ClaimTypes.NameIdentifier).Value;
 
 var user = await _userManager.FindByIdAsync(id);
 ```    
-Implementing Blazor in a ASP.NET Core MVC application - https://chrissainty.com/using-blazor-components-in-an-existing-mvc-application/
+Implementing Blazor in a ASP.NET Core MVC application - https://chrissainty.com/using-blazor-components-in-an-existing-mvc-application/   
+Scaffolding Identity pages in a spa app - 
+```
+
+
+    Create project using template : dotnet new react --auth Individual and build the project .
+
+    If you have not previously installed the ASP.NET Core scaffolder, install it in terminal in vs code :
+
+    dotnet tool install -g dotnet-aspnet-codegenerator
+
+    Add required NuGet package references to the project :
+
+    dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+    dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+    You can list the files that can be scaffolded with dotnet aspnet-codegenerator identity --listFiles
+
+    Run the Identity scaffolder with the options you want , use --files to scaffold specific files ,use the correct fully qualified name for your DB context:
+
+    dotnet aspnet-codegenerator identity -dc ProjectName.Data.ApplicationDbContext --files "Account.Register;Account.Login"
+
+    If you run the Identity scaffolder without specifying the --files flag or the --useDefaultUI flag, all the available Identity UI pages will be created in your project.
+
+Now if you want to modify the login UI , you can modify relevant page in your project --> Areas-->Identity -->Pages-->Account -->Login.cshtml page .
+```
 JavaScript
 ---
 Redux visual guide - https://levelup.gitconnected.com/an-unforgettable-way-to-learn-redux-f36afd38c966    
