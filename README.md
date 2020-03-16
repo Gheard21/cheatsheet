@@ -40,7 +40,8 @@ Scaffolding Identity pages in a spa app -
     If you run the Identity scaffolder without specifying the --files flag or the --useDefaultUI flag, all the available Identity UI pages will be created in your project.
 
 Now if you want to modify the login UI , you can modify relevant page in your project --> Areas-->Identity -->Pages-->Account -->Login.cshtml page .
-```
+```    
+Tutorial on Dockerising ASP.NET Core applications - https://docs.microsoft.com/en-us/dotnet/core/docker/build-container
 JavaScript
 ---
 Redux visual guide - https://levelup.gitconnected.com/an-unforgettable-way-to-learn-redux-f36afd38c966    
